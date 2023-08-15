@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="Flange" version="3.0" targetId="af78f980d20e42df9f2c4bcc20f9011a" sideLength="40.000000" topDiameter="63.660000" bottomDiameter="63.660000" sideImage="Flange.Body_scaled.jpg"/>
+        <CylinderTarget name="RobotFlange" version="3.0" targetId="bab0c37f1c06450ab0d232975e73d293" sideLength="40.000000" topDiameter="63.000000" bottomDiameter="63.000000" sideImage="RobotFlange.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
